@@ -46,6 +46,7 @@ const styles = StyleSheet.create({
     justifyContent: "flex-start", // Content starts at the top of the screen
     // Remove alignItems: "center" to avoid centering the content
     paddingBottom: 80, // Space at the bottom for BottomNavigation
+    backgroundColor: "white",
   },
   title: {
     fontSize: 24,
